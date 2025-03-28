@@ -14,7 +14,7 @@ This project is a **Node.js Express API** that provides earthquake data with **c
 - **Error handling** for failed requests.
 
 ## Live API URL
-🚀 [Deployed API](YOUR_DEPLOYED_API_URL) *(Replace with your actual URL)*
+🚀 [Deployed API](https://earth-quake-api-caching-rate-limiting.vercel.app/)
 
 ## Installation & Setup
 1. Clone this repository:
